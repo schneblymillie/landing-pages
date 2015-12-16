@@ -5,9 +5,15 @@ font-family: 'Abel', sans-serif;
 html{
     background-color: #538894; 
 }
-p{
+p1{
     font-family: 'Roboto', sans-serif; 
     font-weight: 500; 
     font-size: 15em; 
+    color: white; 
+}
+
+p2 {
+    font-family: 'Abel', sans-serif; 
+    font-size: 3em; 
     color: white; 
 }
