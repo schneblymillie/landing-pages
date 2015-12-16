@@ -17,3 +17,8 @@ p2 {
     font-size: 3em; 
     color: white; 
 }
+
+div img {
+    width: 30%; 
+    height: 30%; 
+}
