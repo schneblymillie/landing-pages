@@ -2,3 +2,12 @@
 font-family: 'Roboto', sans-serif;
 font-family: 'Abel', sans-serif;
 */
+html{
+    background-color: #538894; 
+}
+p{
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 500; 
+    font-size: 15em; 
+    color: white; 
+}
