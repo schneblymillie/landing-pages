@@ -80,3 +80,45 @@ section #link .grid-6 {
     padding-top: 12em; 
 }
 
+.form {
+    background-color: #538894;
+    width: 100%;  
+    margin-top: 5em; 
+    margin-bottom: 5em;  
+    padding-bottom: 10em; 
+}
+
+input, 
+label {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    text-align: center;  
+}
+
+.form label {
+    height: 3em; 
+    width: 8em; 
+    color: white; 
+}
+
+h2{
+    color: white; 
+    font-family: 'Roboto', sans-serif; 
+    font-size: 8em; 
+    text-align: center; 
+    letter-spacing: .03em; 
+    margin-top: -.5em; 
+}
+
+.submit {
+    padding-top: 2em; 
+}
+
+
+
+
+
+
+
+
